@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Innocrux</string>
+
+    <string name="startWatching">Start Watching</string>
+    <string name="seeAll">See all</string>
+    <string name="castDetails">Cast Details</string>
+
+    <string name="addToList">Add to List</string>
+    <string name="trailer">Trailer</string>
+    <string name="download">Download</string>
+    <string name="share">Share</string>
+    <string name="bookMark">Bookmark</string>
+
+    <string name="episodes">Episodes</string>
+    <string name="moreLikeThis">More Like This</string>
+    <string name="movieDetails">Movie Details</string>
+
+
+</resources>
